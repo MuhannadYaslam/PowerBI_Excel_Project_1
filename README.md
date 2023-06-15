@@ -1,4 +1,4 @@
-# PowerBI_project_1: The Original
+# PowerBI_project_1:
 The original Power BI file is attached above
 
 # Final Dashboard:
